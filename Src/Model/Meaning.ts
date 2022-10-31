@@ -3,7 +3,7 @@ import * as readlineSync from "readline-sync";
 import {subMenuEditOneMeaning} from "../View/Menu";
 import {subMenuEditExamples} from "../View/Menu";
 import {jsonArrayMember, jsonMember, jsonObject} from "typedjson";
-import {editExamples, editMeanings, editOneMeaning} from "../Enum/Choice";
+import {editExamples, editOneMeaning} from "../Enum/Choice";
 
 @jsonObject
 //@ts-ignore
@@ -24,6 +24,7 @@ export class Meaning {
     setDefinition(): void {
         let definition = readlineSync.question('Enter again the definition:  ');
         this.definition = definition;
+        this.examples = [];
     }
 
     findExample(keyword: string): Example | undefined {
