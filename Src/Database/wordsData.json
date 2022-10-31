@@ -1,0 +1,313 @@
+[
+	{
+		"types": [
+			{
+				"meanings": [
+					{
+						"examples": [
+							{
+								"englishSentence": "form and content",
+								"vietnameseSentence": "hình thức và nội dung"
+							}
+						],
+						"definition": "hình thức"
+					},
+					{
+						"examples": [
+							{
+								"englishSentence": "negative form",
+								"vietnameseSentence": "hình thái phủ định"
+							},
+							{
+								"englishSentence": "correct form of word",
+								"vietnameseSentence": "hình thái đúng của từ"
+							}
+						],
+						"definition": "hình thái"
+					}
+				],
+				"nameOfType": "Noun"
+			},
+			{
+				"meanings": [
+					{
+						"examples": [
+							{
+								"englishSentence": "form the mind",
+								"vietnameseSentence": "rèn luyện trí óc"
+							}
+						],
+						"definition": "rèn luyện"
+					}
+				],
+				"nameOfType": "Verb"
+			}
+		],
+		"synonyms": [
+			"angle",
+			"definite"
+		],
+		"name": "hi",
+		"pronoun": "fc:m"
+	},
+	{
+		"types": [
+			{
+				"meanings": [
+					{
+						"examples": [
+							{
+								"englishSentence": "gfds",
+								"vietnameseSentence": "gdsf"
+							}
+						],
+						"definition": "xin chao"
+					}
+				],
+				"nameOfType": "Noun"
+			}
+		],
+		"synonyms": [],
+		"name": "hello",
+		"pronoun": "/abc/"
+	},
+	{
+		"types": [
+			{
+				"meanings": [
+					{
+						"examples": [
+							{
+								"englishSentence": "gdfs",
+								"vietnameseSentence": "gdfs"
+							}
+						],
+						"definition": "chao"
+					}
+				],
+				"nameOfType": "Noun"
+			}
+		],
+		"synonyms": [
+			"hello"
+		],
+		"name": "hi",
+		"pronoun": "/zb"
+	},
+	{
+		"types": [
+			{
+				"meanings": [
+					{
+						"examples": [
+							{
+								"englishSentence": "fsdgdf",
+								"vietnameseSentence": "gsdf"
+							}
+						],
+						"definition": ""
+					}
+				],
+				"nameOfType": "verb"
+			}
+		],
+		"synonyms": [
+			"begin"
+		],
+		"name": "start",
+		"pronoun": "/vcv/"
+	},
+	{
+		"types": [
+			{
+				"meanings": [
+					{
+						"examples": [],
+						"definition": "siuuu"
+					}
+				],
+				"nameOfType": "noun"
+			},
+			{
+				"meanings": [
+					{
+						"examples": [
+							{
+								"englishSentence": "fdssd",
+								"vietnameseSentence": "gdfs"
+							}
+						],
+						"definition": "si"
+					}
+				],
+				"nameOfType": "noun"
+			}
+		],
+		"synonyms": [
+			"fsd"
+		],
+		"name": "siu",
+		"pronoun": "/fdsfsd/"
+	},
+	{
+		"types": [
+			{
+				"meanings": [
+					{
+						"examples": [
+							{
+								"englishSentence": "fsd",
+								"vietnameseSentence": "gdfs"
+							}
+						],
+						"definition": "do an"
+					}
+				],
+				"nameOfType": "Noun"
+			},
+			{
+				"meanings": [
+					{
+						"examples": [
+							{
+								"englishSentence": "fsd",
+								"vietnameseSentence": "gfsd"
+							}
+						],
+						"definition": "an"
+					}
+				],
+				"nameOfType": "Verb"
+			}
+		],
+		"synonyms": [
+			"breakfast"
+		],
+		"name": "food",
+		"pronoun": "/food/"
+	},
+	{
+		"types": [
+			{
+				"meanings": [
+					{
+						"examples": [
+							{
+								"englishSentence": "gfg",
+								"vietnameseSentence": "hjgj"
+							}
+						],
+						"definition": "trua"
+					}
+				],
+				"nameOfType": "Noun"
+			}
+		],
+		"synonyms": [
+			"dinner"
+		],
+		"name": "lunch",
+		"pronoun": "/vfd/"
+	},
+	{
+		"types": [
+			{
+				"meanings": [
+					{
+						"examples": [
+							{
+								"englishSentence": "gfd",
+								"vietnameseSentence": "gdfs"
+							}
+						],
+						"definition": "xin chaoo"
+					},
+					{
+						"examples": [
+							{
+								"englishSentence": "fdsg",
+								"vietnameseSentence": "gdsf"
+							}
+						],
+						"definition": "chao ban"
+					}
+				],
+				"nameOfType": "Noun"
+			},
+			{
+				"meanings": [
+					{
+						"examples": [
+							{
+								"englishSentence": "�da",
+								"vietnameseSentence": "gfsd"
+							}
+						],
+						"definition": "hi"
+					}
+				],
+				"nameOfType": "Verb"
+			}
+		],
+		"synonyms": [
+			"ho"
+		],
+		"name": "hey",
+		"pronoun": "/gfdsg/"
+	},
+	{
+		"types": [
+			{
+				"meanings": [
+					{
+						"examples": [
+							{
+								"englishSentence": "fs",
+								"vietnameseSentence": "gdsf"
+							}
+						],
+						"definition": "di"
+					}
+				],
+				"nameOfType": "Verb"
+			}
+		],
+		"synonyms": [
+			"let"
+		],
+		"name": "go",
+		"pronoun": "/fdg/"
+	},
+	{
+		"types": [
+			{
+				"meanings": [
+					{
+						"examples": [
+							{
+								"englishSentence": "gsd",
+								"vietnameseSentence": "gds"
+							}
+						],
+						"definition": "thay"
+					},
+					{
+						"examples": [
+							{
+								"englishSentence": "gfsd",
+								"vietnameseSentence": "gsdf"
+							}
+						],
+						"definition": "nhin"
+					}
+				],
+				"nameOfType": "Noun"
+			}
+		],
+		"synonyms": [
+			"saw"
+		],
+		"name": "see",
+		"pronoun": "/gfd/"
+	}
+]
