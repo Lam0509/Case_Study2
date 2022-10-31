@@ -50,9 +50,7 @@ export class Dictionary {
                 })
             })
             console.log("---------------")
-            word.synonyms.forEach(synonym => {
-                console.log(synonym);
-            })
+            console.log(`Synonyms: ${word.synonyms}`)
         } else throw new Error('This word has not existed in the dictionary');
     }
 
