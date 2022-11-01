@@ -1,0 +1,104 @@
+[
+	{
+		"types": [
+			{
+				"meanings": [
+					{
+						"examples": [
+							{
+								"englishSentence": "form and content",
+								"vietnameseSentence": "hình thức và nội dung"
+							}
+						],
+						"definition": "hình thức"
+					},
+					{
+						"examples": [
+							{
+								"englishSentence": "negative form",
+								"vietnameseSentence": "hình thái phủ định"
+							},
+							{
+								"englishSentence": "correct form of word",
+								"vietnameseSentence": "hình thái đúng của từ"
+							}
+						],
+						"definition": "hình thái"
+					}
+				],
+				"nameOfType": "Noun"
+			},
+			{
+				"meanings": [
+					{
+						"examples": [
+							{
+								"englishSentence": "form the mind",
+								"vietnameseSentence": "rèn luyện trí óc"
+							}
+						],
+						"definition": "rèn luyện"
+					}
+				],
+				"nameOfType": "Verb"
+			}
+		],
+		"synonyms": [
+			"angle",
+			"definite"
+		],
+		"name": "form",
+		"pronoun": "fc:m"
+	},
+	{
+		"types": [
+			{
+				"meanings": [
+					{
+						"examples": [
+							{
+								"englishSentence": "it was difficult work at the start",
+								"vietnameseSentence": "lúc bắt đầu công việc rất khó"
+							}
+						],
+						"definition": "sự bắt đầu"
+					}
+				],
+				"nameOfType": "Noun"
+			}
+		],
+		"synonyms": [
+			"kick",
+			"lead"
+		],
+		"name": "start",
+		"pronoun": "sta:t"
+	},
+	{
+		"types": [
+			{
+				"meanings": [
+					{
+						"examples": [
+							{
+								"englishSentence": "gdsf",
+								"vietnameseSentence": "ggf"
+							},
+							{
+								"englishSentence": "",
+								"vietnameseSentence": ""
+							}
+						],
+						"definition": "dsf"
+					}
+				],
+				"nameOfType": "gdfsg"
+			}
+		],
+		"synonyms": [
+			""
+		],
+		"name": "gfd",
+		"pronoun": "gdfs"
+	}
+]
