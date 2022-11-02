@@ -19,9 +19,7 @@ export class Dictionary {
                 if (a.name.toLowerCase() > b.name.toLowerCase()) {return 1;}
                 return 0;
             });
-            Dictionary.words.forEach(word => {
-                console.table(`${word.name}\t${word.pronoun}`)
-            })
+            console.table(Dictionary.words, ["name", "pronoun", "synonyms"])
         } else throw new Error('There is not any words in the dictionary!');
     }
 

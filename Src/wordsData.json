@@ -48,7 +48,7 @@
 			"definite"
 		],
 		"name": "form",
-		"pronoun": "fc:m"
+		"pronoun": "/fc:m/"
 	},
 	{
 		"types": [
@@ -73,32 +73,5 @@
 		],
 		"name": "start",
 		"pronoun": "sta:t"
-	},
-	{
-		"types": [
-			{
-				"meanings": [
-					{
-						"examples": [
-							{
-								"englishSentence": "gdsf",
-								"vietnameseSentence": "ggf"
-							},
-							{
-								"englishSentence": "",
-								"vietnameseSentence": ""
-							}
-						],
-						"definition": "dsf"
-					}
-				],
-				"nameOfType": "gdfsg"
-			}
-		],
-		"synonyms": [
-			""
-		],
-		"name": "gfd",
-		"pronoun": "gdfs"
 	}
 ]

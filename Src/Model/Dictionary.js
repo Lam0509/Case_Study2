@@ -22,9 +22,7 @@ var Dictionary = /** @class */ (function () {
                 }
                 return 0;
             });
-            Dictionary.words.forEach(function (word) {
-                console.table("".concat(word.name, "\t").concat(word.pronoun));
-            });
+            console.table(Dictionary.words, ["name", "pronoun", "synonyms"]);
         }
         else
             throw new Error('There is not any words in the dictionary!');
